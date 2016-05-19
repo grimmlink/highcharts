@@ -1,0 +1,26 @@
+{
+  "name": "grimmlink/highcharts",
+  "description": "Shim repository for Highcharts",
+  "keywords": [
+    "charts",
+    "graphs",
+    "visualization",
+    "data",
+    "browserify",
+    "webpack"
+  ],
+  "homepage": "http://www.highcharts.com",
+  "bugs": "https://github.com/highcharts/highcharts/issues",
+  "author": "Highsoft AS <support@highcharts.com> (http://www.highcharts.com/about)",
+  "license": "SEE LICENSE IN <license.txt>",
+  "author": {
+    "name": "Adam Shaw",
+    "email": "arshaw@arshaw.com",
+    "url": "http://arshaw.com/"
+  },
+  "copyright": "2016 Adam Shaw",
+  "require": {
+    "components/jquery": ">=1.7.1",
+    "moment/moment": ">=2.5.0"
+  }
+}
