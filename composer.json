@@ -1,0 +1,14 @@
+{
+  "name": "grimmlink/highcharts",
+  "description": "Shim repository for Highcharts",
+  "keywords": [
+    "charts",
+    "graphs",
+    "visualization",
+    "data",
+    "browserify",
+    "webpack"
+  ],
+  "homepage": "http://www.highcharts.com",
+  "license": "proprietary"
+}
